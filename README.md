@@ -3,7 +3,7 @@
 <html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title> Responsive Columns </title>
+  <title>Responsive Columns</title>
 </head>
   <body>
     <h1> Our Menu </h1>
